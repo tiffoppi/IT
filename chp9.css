@@ -1,0 +1,11 @@
+body {
+    background-color:violet
+}
+h1{
+    color:blue
+    /*Background is set to be violet with blue text with Hello printed in h1 tag*/
+}
+h1:hover {
+    background-color: blueviolet;
+    color: white;
+}
